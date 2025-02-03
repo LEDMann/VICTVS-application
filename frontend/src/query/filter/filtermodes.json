@@ -1,0 +1,5 @@
+{
+    "shortTextModes":  [["exact", "exact value"], ["contains_exact", "contains value"], ["similar", "similar value"], ["soundex", "similar by soundex"], ["metaphone", "similar by metaphone"], ["levenshtein", "similar by levenshtein"]],
+    "longTextModes":  [["contains_exact", "contains value"], ["similar", "similar value"], ["soundex", "similar by soundex"], ["metaphone", "similar by metaphone"], ["levenshtein", "similar by levenshtein"]],
+    "integerModes":  [["less", "less than"], ["more", "more than"], ["between", "between values"]]
+}

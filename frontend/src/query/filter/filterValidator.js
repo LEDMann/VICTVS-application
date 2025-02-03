@@ -1,0 +1,1 @@
+export const validateFilter = (filter) => (filter.column != ["", ""] && filter.enabled && (filter.mode.type == "shorttext" || filter.mode.type == "longtext" || filter.mode.type == "integer") && filter.mode.value != ["", ""] && filter.value != "" )
