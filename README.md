@@ -1,5 +1,3 @@
-# Submission for VICTVS Application
+# VICTVS Application
 
-backend is all just vanilla php very simple to run with instructions within that project
-
-frontend is just basic react and is just 2 pages for uploading a file and querying that file
+This is a simple Web App i build for an old job application, the backend is vanilla php and the frontend is react, they need to be ran separately. I have more recent repos that show my abilities with these tools far better than this can but youre welcome to look through it if you would like
